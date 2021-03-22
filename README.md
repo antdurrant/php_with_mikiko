@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=OK_JCtrrv-c
 
 #### NEXT:
 
-- data types
+- data types: https://youtu.be/OK_JCtrrv-c?t=2290
 
 
 #### HOMEWORK
