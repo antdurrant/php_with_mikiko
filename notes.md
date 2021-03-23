@@ -27,7 +27,7 @@ is like print() or similar
 - php needs semi-colons at the end of every line
 - php doesn't need parentheses
 - php can take html in its arguments
-  - e.g. echo("<h1> HI </h1>")
+  - e.g. echo("<\h1> HI <\/h1>")
 - php goes in order of lines written
 - use single or double quotes, but stay consistent
 	- can use single quotes for css inside the double quotes for php
