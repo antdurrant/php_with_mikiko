@@ -1,3 +1,4 @@
+
 # Php with Mikiko
 
 ## Week 1
@@ -46,3 +47,12 @@ is like print() or similar
 	- characters need quotes, numbers don't
 
 - syntax highlighting in Atom only works with double quotes
+
+
+#### During HW
+
+- any arbitrary amount of css etc can go in variables and called in <style>
+- variables can use variables in their definitions
+	- they do not dynamically change 
+		- no auto-update, purely linear 
+		- have to redefine to make the changes
