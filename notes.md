@@ -56,3 +56,5 @@ is like print() or similar
 	- they do not dynamically change 
 		- no auto-update, purely linear 
 		- have to redefine to make the changes
+- semi-colons inside the double quotes for css are read as css.
+- semi-colons are needed at the end of every line which has something after it

@@ -23,7 +23,7 @@ https://www.youtube.com/watch?v=OK_JCtrrv-c
 	- a variable that doesn't change
 	- a variable that changes midway through
 	- green h2 tags
-	- noto-sans-jp body
+	- noto-sans body
 
 
 ### 2021-03-15
