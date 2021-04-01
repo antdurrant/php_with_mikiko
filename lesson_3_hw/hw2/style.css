@@ -1,0 +1,12 @@
+h2{
+  font-size: 24;
+  font-weight: 700;
+  color: red;
+  border-style: dotted;
+  border-width: thick;
+
+}
+
+body{
+  font-family: "Century gothic", "Sans-Serif";
+}

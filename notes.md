@@ -57,4 +57,5 @@ is like print() or similar
 		- no auto-update, purely linear 
 		- have to redefine to make the changes
 - semi-colons inside the double quotes for css are read as css.
+- **don't forget the single quotes for css <|span style = 'color: $colour'> SOMETHING <|/span>**
 - semi-colons are needed at the end of every line which has something after it
