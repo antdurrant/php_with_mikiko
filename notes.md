@@ -59,3 +59,4 @@ is like print() or similar
 - semi-colons inside the double quotes for css are read as css.
 - **don't forget the single quotes for css <|span style = 'color: $colour'> SOMETHING <|/span>**
 - semi-colons are needed at the end of every line which has something after it
+-<|wbr> is zero-width whitespace (for mixing japanese text with variables - seems a pain)
