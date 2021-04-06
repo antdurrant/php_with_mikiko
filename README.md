@@ -5,6 +5,22 @@ https://www.youtube.com/watch?v=OK_JCtrrv-c
 
 
 
+### 2021-04-06
+
+#### COMPLETE 
+
+- data-types: strings
+
+#### NEXT
+
+- data-types: numbers
+
+
+#### HOMEWORK
+
+- make a site which uses at least 4 different string-functions
+
+
 ### 2021-03-23
 
 #### COMPLETE

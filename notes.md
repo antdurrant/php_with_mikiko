@@ -60,3 +60,26 @@ is like print() or similar
 - **don't forget the single quotes for css <|span style = 'color: $colour'> SOMETHING <|/span>**
 - semi-colons are needed at the end of every line which has something after it
 - <|wbr> is zero-width whitespace (for mixing japanese text with variables - seems a pain)
+
+
+### Lesson 4: Data Types
+
+- strings take quotes
+- integers take no special notation - just the number
+- floats take no special notation - just use the decimal point
+- booleans are lower-case
+- null is lower-case
+- data types are used everywhere, not just n variables
+
+#### Strings
+- strtolower(string)
+- strtoupper(string)
+- strlen(string)
+- str_replace(pattern, replacement, string)
+- substr(string, starting_index, how_many)
+
+- echo function() function() function() 
+	- e.g echo strlen("hello")+ strlen("world")
+	
+- "Thing"[index goes here]
+- "Thing"[0]  becomes "T"
