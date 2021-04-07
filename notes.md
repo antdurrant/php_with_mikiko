@@ -83,3 +83,8 @@ is like print() or similar
 	
 - "Thing"[index goes here]
 - "Thing"[0]  becomes "T"
+
+#### During HW
+
+- arguments to functions can be other evaluated functions: str_pad($var, strlen($var)+1), " ")
+	- see lesson_4_hw lines 53:69 for example
