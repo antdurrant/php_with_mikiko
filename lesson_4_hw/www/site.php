@@ -59,16 +59,21 @@ $var_repeated = str_repeat($var_padded, 10);
 $var_with_breaks = wordwrap($var_repeated, $var_length, "!<br>");
 
 $var_with_breaks_evaluation = wordwrap(str_repeat(str_pad($var, (strlen($var) + 1), " " ), 10), strlen($var), "!<br>");
+$var_with_breaks_evaluation = wordwrap(str_repeat(str_pad($var, (strlen($var) + 1), " " ), 10), strlen($var), "!<br>");
+$var_evaluated = wordwrap("abc abc ", 4, "!<br>");
 
 echo "variable: $var <br>";
 echo "variable length: $var_length <br>";
 echo "variable padded with a space: $var_padded<br>";
 echo "variable padded and repeated 10 times: $var_repeated<br>";
 echo "variable repeated and surrounded by wordrap: $var_with_breaks <br><br><br>";
-echo "fully typed evaluation: $var_with_breaks_evaluation"
+echo "fully typed evaluation: $var_with_breaks_evaluation";
+echo $var_evaluated;
 
  ?>
 
+
+<?php echo str_pad("green", 8, "!") ?>
 
   </body>
 </html>

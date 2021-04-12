@@ -62,7 +62,7 @@ is like print() or similar
 - <|wbr> is zero-width whitespace (for mixing japanese text with variables - seems a pain)
 
 
-### Lesson 4: Data Types
+## Data Types
 
 - strings take quotes
 - integers take no special notation - just the number
@@ -71,7 +71,7 @@ is like print() or similar
 - null is lower-case
 - data types are used everywhere, not just n variables
 
-#### Strings
+#### Lesson 4: Strings
 - strtolower(string)
 - strtoupper(string)
 - strlen(string)
@@ -88,3 +88,24 @@ is like print() or similar
 
 - arguments to functions can be other evaluated functions: str_pad($var, strlen($var)+1), " ")
 	- see lesson_4_hw lines 53:69 for example
+
+
+### Lesson 5: Numbers
+
+- % is mod
+- $var += 53 is $var = $var + 53
+- $var *= 23 is $var = $var * 23
+- $var++ is $var = $var + 1
+- $var-- is $var = $var - 1
+- sqrt()
+- max(x, y)
+- min(x, y)
+- round(54.444)
+- ceil(x) = round up
+- floor(x) = round down
+- pow(x, y) = x to the power of y
+- abs()
+
+
+
+

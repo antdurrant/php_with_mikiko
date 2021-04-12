@@ -4,6 +4,22 @@ practice following along with mike
 https://www.youtube.com/watch?v=OK_JCtrrv-c
 
 
+### 2021-04-12
+
+#### COMPLETE
+
+- data-types: numbers
+
+#### NEXT
+
+- user-input
+
+#### HOMEWORK
+
+- string function review
+- write some maths
+
+
 
 ### 2021-04-06
 
