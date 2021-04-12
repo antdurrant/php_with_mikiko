@@ -13,6 +13,7 @@ https://www.youtube.com/watch?v=OK_JCtrrv-c
 #### NEXT
 
 - user-input
+- https://youtu.be/OK_JCtrrv-c?t=3914
 
 #### HOMEWORK
 
