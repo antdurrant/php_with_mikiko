@@ -107,5 +107,15 @@ is like print() or similar
 - abs()
 
 
+#### During HW
+
+- </sup>  is superscript tag
+- </i> is italic
+- </b> is bold
+- in variables, if_else is (test)? true : false;
+- strlen(), NOT nchar()
+- pi is a function: pi()
+- &#960 is pi (& # 9 6 0)
+
 
 
