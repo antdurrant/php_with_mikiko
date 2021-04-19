@@ -117,5 +117,9 @@ is like print() or similar
 - pi is a function: pi()
 - &#960 is pi (& # 9 6 0)
 
+### Lesson 6: Get User Input
 
-
+- use HTML forms
+- multiple inputs are fine, but "submit" will resubmit EVERYTHING
+- </form> Write something: </input type="text" name="something"> </input type="submit"> </form>
+- access input with `$_GET["name parameter"]` in php
