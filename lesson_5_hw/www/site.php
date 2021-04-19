@@ -10,7 +10,7 @@
     $r = 12;
     $sentence = "This is an example sentence. ";
     $longer = (strlen($sentence) > $r) ?   " longer ": " shorter ";
-
+    
 
 
     echo "The formula for the circumference of a circle is &#960 r <sup>2</sup><br>";

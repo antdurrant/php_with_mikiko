@@ -4,6 +4,22 @@ practice following along with mike
 https://www.youtube.com/watch?v=OK_JCtrrv-c
 
 
+### 2021-04-19
+
+#### COMPLETE 
+
+- basic user input
+
+##### NEXT
+
+- building a calculator
+- https://youtu.be/OK_JCtrrv-c?t=4537
+
+##### HW
+
+- general review
+- add user input to one of the previous HWs
+
 ### 2021-04-12
 
 #### COMPLETE
