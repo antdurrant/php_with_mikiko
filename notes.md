@@ -123,3 +123,8 @@ is like print() or similar
 - multiple inputs are fine, but "submit" will resubmit EVERYTHING
 - </form> Write something: </input type="text" name="something"> </input type="submit"> </form>
 - access input with `$_GET["name parameter"]` in php
+
+- using parameters in the form adds to the url - you can write the things directly there if you want
+- you can assign $_GET["parameter"] to php variables no worries
+
+
