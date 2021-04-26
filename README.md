@@ -4,6 +4,30 @@ practice following along with mike
 https://www.youtube.com/watch?v=OK_JCtrrv-c
 
 
+
+### 2021-04-26
+
+
+#### COMPLETE
+
+- basic calculator
+
+
+##### NEXT 
+
+- make a mad-lib
+- https://youtu.be/OK_JCtrrv-c?t=4933
+
+##### HW
+
+- general review
+- add user input to one of the previous HWs
+- include maths
+
+- PLUS ALPHA HW: operator selection (with radio buttons?)
+
+
+
 ### 2021-04-19
 
 #### COMPLETE 

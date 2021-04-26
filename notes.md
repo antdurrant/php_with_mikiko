@@ -128,3 +128,8 @@ is like print() or similar
 - you can assign $_GET["parameter"] to php variables no worries
 
 
+### Lesson 7: Basic Calculator
+
+- html form
+- `$_GET["thing_a"] + $_GET["thing_b"]`
+- password input hides input in page, **but not in url**
