@@ -1,0 +1,25 @@
+
+@charset "utf-8";
+
+
+body{​​
+  font-size: 12px;
+  font-family: "Sans-Serif";
+  color: #345677;
+}
+
+
+h1{
+  color:orange;
+}
+
+/* Style inputs */
+  input[type=text], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}

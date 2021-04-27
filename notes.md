@@ -133,3 +133,30 @@ is like print() or similar
 - html form
 - `$_GET["thing_a"] + $_GET["thing_b"]`
 - password input hides input in page, **but not in url**
+
+
+#### During HW
+
+- you have kinda forgotten how to write basic css
+
+```
+switch($on_this_variable){
+case: x;
+echo "Something"
+break;
+case: y;
+echo "Something else";
+break;
+}
+```
+
+- html form radiobuttons
+
+```
+<input type="radio" id="plus" name="operator" value="plus">
+<label for="plus">plus</label><br>
+<input type="radio" id="minus" name="operator" value="minus">
+<label for="minus">minus</label><br>
+```
+**Note: switch/case does [loose comparison](https://www.php.net/manual/en/types.comparisons.php#types.comparisions-loose).**
+
