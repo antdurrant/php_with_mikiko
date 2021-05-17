@@ -4,6 +4,20 @@ practice following along with mike
 https://www.youtube.com/watch?v=OK_JCtrrv-c
 
 
+### 2021-05-17
+
+- welcome back
+
+#### COMPLETE
+
+- madlib
+
+#### NEXT
+
+- URL parameter (I think we basically already did this)
+- https://youtu.be/OK_JCtrrv-c?t=5339
+
+
 
 ### 2021-04-26
 
@@ -11,6 +25,11 @@ https://www.youtube.com/watch?v=OK_JCtrrv-c
 #### COMPLETE
 
 - basic calculator
+
+
+##### HW 
+
+- make a pretty madlib
 
 
 ##### NEXT 

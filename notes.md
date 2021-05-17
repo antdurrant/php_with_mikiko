@@ -7,22 +7,20 @@
 
 #### Start server
 
-cd path/to/your/project
+`cd path/to/your/project`
 
-php -S localhost:4000
+`php -S localhost:4000`
 
 
 #### In atom
 
-html
-Will give a skeleton
+`html` will give a skeleton
 
 ### Lesson 2 
 
-<?php
-	{php code goes here}
-?>php echo()
-is like print() or similar
+`<?php	{php code goes here} ?>`
+
+`php echo()` is like `print()` or similar
 
 - php needs semi-colons at the end of every line
 - php doesn't need parentheses
@@ -159,4 +157,9 @@ break;
 <label for="minus">minus</label><br>
 ```
 **Note: switch/case does [loose comparison](https://www.php.net/manual/en/types.comparisons.php#types.comparisions-loose).**
+
+
+### Lesson 8: Madlibs
+
+- oof, it has been a while
 
