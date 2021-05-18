@@ -163,3 +163,11 @@ break;
 
 - oof, it has been a while
 
+#### During HW
+
+- search-boxes use `type="hidden"` a fair bit
+- `class` can go inside html forms
+- yep, today was easy
+- used </details> as a hack for not showing the result
+	- https://www.w3schools.com/php/php_form_required.asp shows a proper way to do it
+	- apparently we'll come back to this later, so that'll do for now
