@@ -3,6 +3,24 @@ practice following along with mike
 
 https://www.youtube.com/watch?v=OK_JCtrrv-c
 
+### 2021-05-26
+
+#### COMPLETE
+
+- url parameters
+- post vs get
+
+
+#### NEXT
+
+- arrays
+- https://youtu.be/OK_JCtrrv-c?t=6104
+
+##### HW
+
+- yeah, nothing this week
+- Mikiko: make your things pretty
+
 
 ### 2021-05-17
 
@@ -27,12 +45,12 @@ https://www.youtube.com/watch?v=OK_JCtrrv-c
 - basic calculator
 
 
-##### HW 
+##### HW
 
 - make a pretty madlib
 
 
-##### NEXT 
+##### NEXT
 
 - make a mad-lib
 - https://youtu.be/OK_JCtrrv-c?t=4933
@@ -49,7 +67,7 @@ https://www.youtube.com/watch?v=OK_JCtrrv-c
 
 ### 2021-04-19
 
-#### COMPLETE 
+#### COMPLETE
 
 - basic user input
 
@@ -83,7 +101,7 @@ https://www.youtube.com/watch?v=OK_JCtrrv-c
 
 ### 2021-04-06
 
-#### COMPLETE 
+#### COMPLETE
 
 - data-types: strings
 
@@ -111,7 +129,7 @@ https://www.youtube.com/watch?v=OK_JCtrrv-c
 #### HOMEWORK
 
 - review lesson 1/2
-- write short story with 
+- write short story with
 	- a variable that doesn't change
 	- a variable that changes midway through
 	- green h2 tags
@@ -137,5 +155,4 @@ https://www.youtube.com/watch?v=OK_JCtrrv-c
 	- terminal:
 		cd, ls, php -S
 	- site:
-		www/, style.css, site.php	
-	
+		www/, style.css, site.php

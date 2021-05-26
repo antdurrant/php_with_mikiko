@@ -16,7 +16,7 @@
 
 `html` will give a skeleton
 
-### Lesson 2 
+### Lesson 2
 
 `<?php	{php code goes here} ?>`
 
@@ -33,7 +33,7 @@
 
 #### During HW
 
-- style.css needs to be in same folder as site.php 
+- style.css needs to be in same folder as site.php
 - ctrl + C to stop the server
 
 ## Week 2
@@ -51,8 +51,8 @@
 
 - any arbitrary amount of css etc can go in variables and called in <style>
 - variables can use variables in their definitions
-	- they do not dynamically change 
-		- no auto-update, purely linear 
+	- they do not dynamically change
+		- no auto-update, purely linear
 		- have to redefine to make the changes
 - semi-colons inside the double quotes for css are read as css.
 - **don't forget the single quotes for css <|span style = 'color: $colour'> SOMETHING <|/span>**
@@ -76,9 +76,9 @@
 - str_replace(pattern, replacement, string)
 - substr(string, starting_index, how_many)
 
-- echo function() function() function() 
+- echo function() function() function()
 	- e.g echo strlen("hello")+ strlen("world")
-	
+
 - "Thing"[index goes here]
 - "Thing"[0]  becomes "T"
 
@@ -171,3 +171,13 @@ break;
 - used </details> as a hack for not showing the result
 	- https://www.w3schools.com/php/php_form_required.asp shows a proper way to do it
 	- apparently we'll come back to this later, so that'll do for now
+
+### Lesson 9: URL Parameters
+
+- url parameters store any arbitrary information for a website _in_ the url
+	- allows for bookmarking etc
+	- is not secure at all if you use `$_GET["thing"]` or `form method = "get"`
+	- `"post"` is the more secure one - that is the next lesson
+
+- `method = "post"` and `$_POST["thing"]` do _not_ show in the url
+- there are other differences, but that is the main thing for now 
