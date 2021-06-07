@@ -3,6 +3,23 @@ practice following along with mike
 
 https://www.youtube.com/watch?v=OK_JCtrrv-c
 
+
+### 2021-06-06
+
+#### COMPLETE
+
+- arrays
+
+#### NEXT
+
+- using checkboxes
+
+##### HW
+
+- show info about person X (select from dropdown or something)
+
+
+
 ### 2021-05-26
 
 #### COMPLETE
