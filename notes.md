@@ -181,3 +181,19 @@ break;
 
 - `method = "post"` and `$_POST["thing"]` do _not_ show in the url
 - there are other differences, but that is the main thing for now 
+
+
+
+### Lesson 10: Arrays
+
+- variables are for single values
+- arrays are for multiple values
+- make with `$var = array("thing1", "thing2")`
+- `echo $var` just returns `Array`
+- arrays don't care about types
+- individual elements can be mutated with regular assignment (`$var[1] = "Sam"`)
+- arrays can be appended without worrying about adding just to the end 
+	- `$var[10] = "Jo"` will work even without the rest the array being assigned
+	- `count($var)` will count how many assigned elements there are
+	- calling an unassigned element returns nothing _silently_
+	- ``$var[1][1]` indexes the index (works like you expect)

@@ -17,11 +17,12 @@
       echo "One day, $character_name realised he was a woman <br>";
 
       $character_name = "Sally";
+      $character_age = round($character_age/3);
 
       echo "He really liked the name $character_name <br>";
       echo "So that's what she decided to rename herself";
       echo "But he didn't like being $character_age <br>";
-      echo "He wished he was still $character_age/3 <br>";
+      echo "He wished he was still $character_age <br>";
 
     ?>
 
