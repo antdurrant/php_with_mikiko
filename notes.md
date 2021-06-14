@@ -25,7 +25,7 @@
 - php needs semi-colons at the end of every line
 - php doesn't need parentheses
 - php can take html in its arguments
-  - e.g. echo("<\h1> HI <\/h1>")
+  - e.g. `echo("<h1> HI </h1>")`
 - php goes in order of lines written
 - use single or double quotes, but stay consistent
 	- can use single quotes for css inside the double quotes for php
@@ -40,8 +40,8 @@
 
 ### Lesson 3: Variables
 
-- ${varname} = {value};
-- $character_name = "John"
+- `${varname} = {value};`
+- `$character_name = "John"`
 	- characters need quotes, numbers don't
 
 - syntax highlighting in Atom only works with double quotes
@@ -180,7 +180,7 @@ break;
 	- `"post"` is the more secure one - that is the next lesson
 
 - `method = "post"` and `$_POST["thing"]` do _not_ show in the url
-- there are other differences, but that is the main thing for now 
+- there are other differences, but that is the main thing for now
 
 
 
@@ -192,8 +192,12 @@ break;
 - `echo $var` just returns `Array`
 - arrays don't care about types
 - individual elements can be mutated with regular assignment (`$var[1] = "Sam"`)
-- arrays can be appended without worrying about adding just to the end 
+- arrays can be appended without worrying about adding just to the end
 	- `$var[10] = "Jo"` will work even without the rest the array being assigned
 	- `count($var)` will count how many assigned elements there are
 	- calling an unassigned element returns nothing _silently_
-	- ``$var[1][1]` indexes the index (works like you expect)
+	- `$var[1][1]` indexes the index (works like you expect)
+
+#### During HW
+
+- radio buttons worked as expected if there was a `submit` button
