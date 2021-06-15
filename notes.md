@@ -55,9 +55,9 @@
 		- no auto-update, purely linear
 		- have to redefine to make the changes
 - semi-colons inside the double quotes for css are read as css.
-- **don't forget the single quotes for css <|span style = 'color: $colour'> SOMETHING <|/span>**
+- **don't forget the single quotes for css `<span style = 'color: $colour'> SOMETHING </span>`**
 - semi-colons are needed at the end of every line which has something after it
-- <|wbr> is zero-width whitespace (for mixing japanese text with variables - seems a pain)
+- `<wbr>` is zero-width whitespace (for mixing japanese text with variables - seems a pain)
 
 
 ## Data Types
@@ -70,60 +70,60 @@
 - data types are used everywhere, not just n variables
 
 #### Lesson 4: Strings
-- strtolower(string)
-- strtoupper(string)
-- strlen(string)
-- str_replace(pattern, replacement, string)
-- substr(string, starting_index, how_many)
+- `strtolower(string)`
+- `strtoupper(string)`
+- `strlen(string)`
+- `str_replace(pattern, replacement, string)`
+- `substr(string, starting_index, how_many)`
 
-- echo function() function() function()
-	- e.g echo strlen("hello")+ strlen("world")
+- `echo function() function() function()`
+	- e.g `echo strlen("hello")+ strlen("world")`
 
-- "Thing"[index goes here]
-- "Thing"[0]  becomes "T"
+- `"Thing"[index goes here]`
+- `"Thing"[0]`  becomes "T"
 
 #### During HW
 
-- arguments to functions can be other evaluated functions: str_pad($var, strlen($var)+1), " ")
-	- see lesson_4_hw lines 53:69 for example
+- arguments to functions can be other evaluated functions: `str_pad($var, strlen($var)+1), " ")`
+	- see *lesson_4_hw* lines **53:69** for example
 
 
 ### Lesson 5: Numbers
 
-- % is mod
-- $var += 53 is $var = $var + 53
-- $var *= 23 is $var = $var * 23
-- $var++ is $var = $var + 1
-- $var-- is $var = $var - 1
-- sqrt()
-- max(x, y)
-- min(x, y)
-- round(54.444)
-- ceil(x) = round up
-- floor(x) = round down
-- pow(x, y) = x to the power of y
-- abs()
+- `%` is mod
+- `$var += 53` is `$var = $var + 53`
+- `$var *= 23` is `$var = $var * 23`
+- `$var++` is `$var = $var + 1`
+- `$var--` is `$var = $var - 1`
+- `sqrt()`
+- `max(x, y)`
+- `min(x, y)`
+- `round(54.444)`
+- `ceil(x)` = round up
+- `floor(x)` = round down
+- `pow(x, y)` = x to the power of y
+- `abs()`
 
 
 #### During HW
 
-- </sup>  is superscript tag
-- </i> is italic
-- </b> is bold
-- in variables, if_else is (test)? true : false;
-- strlen(), NOT nchar()
-- pi is a function: pi()
-- &#960 is pi (& # 9 6 0)
+- `<sup>`  is superscript tag
+- `<i>` is italic
+- `<b>` is bold
+- in variables, `if_else` is `(test)? true : false;`
+- `strlen()`, **NOT** `nchar()`
+- pi is a function: `pi()`
+- `&#960` is pi &#960
 
 ### Lesson 6: Get User Input
 
 - use HTML forms
-- multiple inputs are fine, but "submit" will resubmit EVERYTHING
-- </form> Write something: </input type="text" name="something"> </input type="submit"> </form>
+- multiple inputs are fine, but `"submit"` will resubmit EVERYTHING
+- `<form> Write something: <input type="text" name="something"> <\input type="submit"> <\form>`
 - access input with `$_GET["name parameter"]` in php
 
 - using parameters in the form adds to the url - you can write the things directly there if you want
-- you can assign $_GET["parameter"] to php variables no worries
+- you can assign `$_GET["parameter"]` to php variables no worries
 
 
 ### Lesson 7: Basic Calculator
@@ -148,7 +148,7 @@ break;
 }
 ```
 
-- html form radiobuttons
+- html form radio buttons
 
 ```
 <input type="radio" id="plus" name="operator" value="plus">
@@ -168,7 +168,7 @@ break;
 - search-boxes use `type="hidden"` a fair bit
 - `class` can go inside html forms
 - yep, today was easy
-- used </details> as a hack for not showing the result
+- used `<details>` as a hack for not showing the result
 	- https://www.w3schools.com/php/php_form_required.asp shows a proper way to do it
 	- apparently we'll come back to this later, so that'll do for now
 
