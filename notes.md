@@ -139,11 +139,17 @@
 
 ```
 switch($on_this_variable){
+
 case: x;
+
 echo "Something"
+
 break;
+
 case: y;
+
 echo "Something else";
+
 break;
 }
 ```
