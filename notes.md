@@ -82,6 +82,12 @@
 - `"Thing"[index goes here]`
 - `"Thing"[0]`  becomes "T"
 
+
+##### Combining function output with other stuff
+
+- use a comma to separate outputs `,`
+- you can use operators 
+
 #### During HW
 
 - arguments to functions can be other evaluated functions: `str_pad($var, strlen($var)+1), " ")`
