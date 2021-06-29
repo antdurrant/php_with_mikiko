@@ -3,6 +3,10 @@ practice following along with mike
 
 https://www.youtube.com/watch?v=OK_JCtrrv-c
 
+### 2021-06-28
+
+- (and last week as well)
+- reviewing lessons 1-5
 
 ### 2021-06-06
 
