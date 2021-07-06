@@ -32,7 +32,7 @@ sqrt()
 <?php  echo sqrt(12); ?>
 <br>
 max()
-<?php  echo max(12, 5); ?>
+<?php  echo max(12, 5, abs(-20)); ?>
 <br>
 min()
 <?php  echo min(12, 5); ?>
