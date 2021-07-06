@@ -7,10 +7,15 @@
   <body>
 
     <?php
-    $num = 10;
+    echo $num = 10, "<br>";
     $num++;
+    // is the same as $num = $num + 1
+    echo $num, "<br>";
     $num--;
+    // is the same as $num = $num - 1
+    echo $num, "<br>";
     $num += 4;
+    echo $num, "<br>";
     echo (4 + 5) * $num, "<br>";
 
 
