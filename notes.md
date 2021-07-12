@@ -86,7 +86,7 @@
 ##### Combining function output with other stuff
 
 - use a comma to separate outputs `,`
-- you can use operators 
+- you can use operators
 
 #### During HW
 
@@ -130,6 +130,9 @@
 
 - using parameters in the form adds to the url - you can write the things directly there if you want
 - you can assign `$_GET["parameter"]` to php variables no worries
+
+- you need `<label> some label </label>` when using select-y inputs
+	- see (`./lesson_6_hw/button_test.html`)
 
 
 ### Lesson 7: Basic Calculator
