@@ -216,3 +216,16 @@ break;
 #### During HW
 
 - radio buttons worked as expected if there was a `submit` button
+
+
+### 2021-08-22
+
+- using checkboxes with arrays
+	- `<input> type="checkbox" name = "thing[]"`
+	- square brackets for storing multiple pieces of information
+	- without the square brackets, the last selected checkbox is treated as an array, and you will select letters from the character array that is the value
+	- e.g. `name = "fruits"` with `lemon` and `banana` selected:
+		- `echo $fruits[0]` shows `b` as the first element in the array `[b,a,n,a,n,a]`
+	- `name = "fruits[]"` with `lemon` and `banana` selected:
+		- `echo $fruits[0]` shows `lemon` as the first element in the array `["lemon", "banana"]`
+	

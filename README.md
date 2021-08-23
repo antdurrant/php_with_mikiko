@@ -3,6 +3,26 @@ practice following along with mike
 
 https://www.youtube.com/watch?v=OK_JCtrrv-c
 
+### 2021-08-22
+
+(after several weeks of reviewing/other interruptions)
+
+WELCOME BACK!
+
+
+#### COMPLETE
+
+- using `POST` forms to create array that PHP can use
+
+#### NEXT
+
+- associative arrays
+
+#### HW
+
+- show information about a thing with checkboxes
+
+
 ### 2021-06-28
 
 - (and last week as well)
@@ -178,3 +198,5 @@ https://www.youtube.com/watch?v=OK_JCtrrv-c
 		cd, ls, php -S
 	- site:
 		www/, style.css, site.php
+
+
