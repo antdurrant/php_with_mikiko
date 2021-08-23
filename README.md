@@ -16,7 +16,7 @@ WELCOME BACK!
 
 #### NEXT
 
-- associative arrays
+- [associative arrays](https://youtu.be/OK_JCtrrv-c?t=7042) 
 
 #### HW
 
