@@ -3,6 +3,23 @@ practice following along with mike
 
 https://www.youtube.com/watch?v=OK_JCtrrv-c
 
+
+### 2021-09-05
+
+#### COMPLETE
+
+- associative arrays
+	- some interesting behaviour there
+
+#### NEXT
+
+- functions
+
+#### HW
+
+- use checkboxes and associative arrays to make... something
+
+
 ### 2021-08-22
 
 (after several weeks of reviewing/other interruptions)
@@ -16,7 +33,7 @@ WELCOME BACK!
 
 #### NEXT
 
-- [associative arrays](https://youtu.be/OK_JCtrrv-c?t=7042) 
+- [associative arrays](https://youtu.be/OK_JCtrrv-c?t=7042)
 
 #### HW
 
@@ -198,5 +215,3 @@ WELCOME BACK!
 		cd, ls, php -S
 	- site:
 		www/, style.css, site.php
-
-

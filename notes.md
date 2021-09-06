@@ -228,4 +228,20 @@ break;
 		- `echo $fruits[0]` shows `b` as the first element in the array `[b,a,n,a,n,a]`
 	- `name = "fruits[]"` with `lemon` and `banana` selected:
 		- `echo $fruits[0]` shows `lemon` as the first element in the array `["lemon", "banana"]`
-	
+
+### 2021-09-05
+
+__Associative Arrays__
+
+- key-value pairs a-la JSON
+- assign with `array("key" => "value")`
+- when `key => value` is used, indexing is nullified
+	- key-value pairs just sit somewhere in the container, not in a specific place
+	- `$variable["key"] = "value"` also seems to work just fine
+
+```
+echo "test1: ", array("value")[0], "<br>";
+echo "test2: ", array("key" =>"value")[0];
+```
+
+only test1 prints "value"
