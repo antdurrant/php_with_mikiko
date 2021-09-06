@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=OK_JCtrrv-c
 
 #### NEXT
 
-- functions
+- [functions](https://youtu.be/OK_JCtrrv-c?t=7495)
 
 #### HW
 
