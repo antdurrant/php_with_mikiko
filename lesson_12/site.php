@@ -14,19 +14,19 @@
 
 <?php
   $grades = array("Jim" => "A+", "Pam" => "B", "Oscar" => "C");
+  // $grades = array("Jim" = "A+", "Pam" = "B", "Oscar" = "C");
 
   $test["hey"] = 1;
   $test["you"] = 2;
 
   echo $_POST["student"], " got ", $grades[$_POST["student"]], " in the test. <br>";
 
-  echo $test, "<br>", $test[1], "<br>", $test["hey"];
+  echo $test, "<br>", $test[1], "<br>", $test["hey"], "<br>";
 
 
 
-
-  echo "test1: ", array("value")[0], "<br>";
-  echo "test2: ", array("key" =>"value")[0];
+  echo "test1: ", array("value1", "value2")[1], "<br>";
+  echo "test2: ", array("key1" =>"value1", "key2" => "value2")[1];
  ?>
 
   </body>

@@ -245,3 +245,10 @@ echo "test2: ", array("key" =>"value")[0];
 ```
 
 only test1 prints "value"
+
+
+#### HW
+
+Not at all clear on how to take HTML input and use it to filter/subset the array.
+
+Going to have to look further into it, but no time today.
